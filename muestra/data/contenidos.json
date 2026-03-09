@@ -1,0 +1,34 @@
+{
+"biologia":[
+{
+    "id":"fotosintesis",
+    "titulo":"La fotosintesis",
+    "imagen":"img/biologia/fotosintesis.jpg",
+    "descripcion":"descripcion del proyecto"
+},
+{
+    "id":"celula",
+    "titulo":"La celula",
+    "imagen":"img/biologia/celula.jpg",
+    "descripcion":"descripcion de la celula"
+    
+}
+   
+],
+"quimica":[
+{
+    "id":"molecula",
+    "titulo":"La molecula",
+    "imagen":"img/quimica/molecula.jpg",
+    "descripcion":"descripcion de la molecula"
+},
+{
+    "id":"",
+    "titulo":"",
+    "imagen":"",
+    "descripcion":""
+}
+
+]
+
+}
